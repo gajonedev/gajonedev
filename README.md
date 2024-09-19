@@ -1,7 +1,7 @@
 
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm **[Your Name]**, an Electrical and Computer Engineering student passionate about **web development** and **programming**. I love building cool stuff, and my favorite language is **JavaScript**. 🌟
+Welcome to my GitHub profile! I'm **Néhémie Gandonou**, an Electrical and Computer Engineering student passionate about **web development** and **programming**. I love building cool stuff, and my favorite language is **JavaScript**. 🌟
 
 ### 💻 What I work with:
 - **Frontend**: React, Next.js
@@ -15,20 +15,12 @@ Welcome to my GitHub profile! I'm **[Your Name]**, an Electrical and Computer En
 - Working with **databases** like PostgreSQL.
 - Writing **clean and efficient code** in JavaScript.
 
-### 🛠️ Projects I'm working on:
-- [Project Name]: A cool web app that does something awesome.
-- [Another Project]: A fullstack app with [a specific feature].
-
 ### 🧠 Learning:
 - Advanced Next.js features (SSR, ISR, etc.).
 - Improving my **DevOps skills** with Docker and CI/CD.
 - Exploring **machine learning** and **AI**.
 
 ### ⚡ Fun Fact:
-I’m always curious and love solving challenging problems. I’m also known to be **smart and courteous**. 😎
-
-### 📫 How to reach me:
-- [Your Email]
-- [Your LinkedIn or Twitter]
+I’m always curious and love solving challenging problems. I’m also known to be **smart and courteous**.
 
 Thanks for visiting my GitHub profile! Feel free to check out my projects or collaborate. Let's build something amazing together! 🚀
